@@ -1,3 +1,4 @@
+![pexels-garrettmorrow-682933](https://github.com/user-attachments/assets/715760c3-f5cb-4e95-b531-2a29fcb266f6)
 # 👋 Hi, I’m David (aka Gamerkid15175 / PlutoniumDev)
 
 💡 **About Me**
@@ -6,7 +7,8 @@
 - ⚙️ Passionate about hardware–software integration and real-time systems  
 - 🧰 I use: C++, Python, Unreal Engine, and learning Python
 
-📈 **Current Goals**
+📈 **Current Goals**!
+
 - Build a playable demo of my Trauma Team–inspired FPS.  
 - Learn advanced C++ memory management and embedded firmware design  
 
